@@ -1,4 +1,3 @@
-cat > README.md << 'EOF'
 # Analisis de Riesgo Crediticio
 ## Dataset: Give Me Some Credit - Kaggle (2011)
 
@@ -25,4 +24,3 @@ Analisis exploratorio y segmentacion de clientes por perfil de riesgo crediticio
 | Bajo Riesgo | 112,436 (75%) | 2.3% |
 | Riesgo Medio | 31,736 (21.2%) | 14.3% |
 | Alto Riesgo | 5,828 (3.9%) | 50.7% |
-EOF
